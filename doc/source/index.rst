@@ -1,3 +1,8 @@
-==============================================
-Welcome to the documentation of dedicated-host
-==============================================
+Dedicated Host
+==============
+
+.. directive_wrapper::
+   :class: container-sbv
+
+   .. service_card::
+      :service_type: deh
