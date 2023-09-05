@@ -8,7 +8,7 @@ General-Purpose DeHs
 Overview
 --------
 
-General-Purpose DeHs can accommodate ECSs with regular workloads and short-term workload surges.
+General-purpose DeHs can accommodate ECSs with regular workloads and short-term workload surges. They use a CPU-unbound scheduling scheme. vCPUs are randomly allocated to idle CPU hyper threads based on the system loads. If traffic loads are light, the computing performance is high. However, if traffic loads are heavy, vCPUs of different ECSs compete for physical CPU resources, resulting in unstable computing performance.
 
 Currently, only the s3 DeH type equipped with the latest-generation Intel® Xeon® Skylake CPUs, providing better cost-effectiveness, is provided and can be used to deploy S3 ECSs.
 
@@ -17,12 +17,12 @@ DeH Specifications
 
 .. table:: **Table 1** Specifications of s3 DeHs
 
-   +-------------+-------------------+--------------------------+---------------------------------------------------------------------------------------------+-----------------+
-   | Flavor Type | Number of Sockets | Number of Physical Cores | Hardware Specifications                                                                     | Number of vCPUs |
-   +=============+===================+==========================+=============================================================================================+=================+
-   | s3          | 2                 | 22                       | -  CPU: Intel® Xeon® Skylake 6161 v5 (frequency: 2.20 GHz; Turbo Boost frequency: 3.00 GHz) | 264             |
-   |             |                   |                          | -  Memory: 702 GB (or 718,848 MB)                                                           |                 |
-   +-------------+-------------------+--------------------------+---------------------------------------------------------------------------------------------+-----------------+
+   +-------------+--------------------------+--------------------------+---------------------------------------------------------------------------------------------+-----------------+
+   | Flavor Type | Number of CPUs (Sockets) | Number of Physical Cores | Hardware Specifications                                                                     | Number of vCPUs |
+   +=============+==========================+==========================+=============================================================================================+=================+
+   | s3          | 2                        | 22                       | -  CPU: Intel® Xeon® Skylake 6161 v5 (frequency: 2.20 GHz; Turbo Boost frequency: 3.00 GHz) | 264             |
+   |             |                          |                          | -  Memory: 702 GB (or 718,848 MB)                                                           |                 |
+   +-------------+--------------------------+--------------------------+---------------------------------------------------------------------------------------------+-----------------+
 
 ECSs Allowed on DeHs
 --------------------

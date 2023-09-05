@@ -8,7 +8,7 @@ Allocating DeHs
 Scenarios
 ---------
 
-You will allocate a DeH for the first time or more DeHs as required.
+You will allocate a DeH for the first time or allocate more DeHs as required.
 
 Procedure
 ---------
