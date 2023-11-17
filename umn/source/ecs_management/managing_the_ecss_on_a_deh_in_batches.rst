@@ -40,5 +40,6 @@ Procedure
    -  **Start** (allowed only when ECSs are stopped)
    -  **Stop** (allowed only when ECSs are running.)
    -  **Restart** (allowed only when ECSs are running)
+   -  **Delete**
 
 .. |image1| image:: /_static/images/en-us_image_0210485079.png
