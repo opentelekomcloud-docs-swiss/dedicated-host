@@ -8,7 +8,7 @@ Product Introduction
 -  :ref:`Dedicated Host <deh_01_0003>`
 -  :ref:`Application Scenarios <deh_01_0008>`
 -  :ref:`Product Advantages <deh_01_0032>`
--  :ref:`Categories and Types <en-us_topic_0131337242>`
+-  :ref:`Categories and Types <deh_01_0056>`
 -  :ref:`Lifecycle <deh_01_0004>`
 -  :ref:`Basic Concepts <deh_01_0026>`
 -  :ref:`Constraints <deh_01_0010>`
