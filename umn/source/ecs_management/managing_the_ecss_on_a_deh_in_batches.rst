@@ -15,7 +15,7 @@ Procedure
 
 #. Log in to the management console.
 
-#. Click |image1| in the upper left corner and select the desired region and project.
+#. Click |image1| in the upper left corner, and select a region and a project.
 
 #. Under **Computing**, click **Dedicated Host**.
 
@@ -27,7 +27,7 @@ Procedure
 
 #. On the **ECSs on the DeH** tab, select the target ECSs.
 
-   You can select multiple ECSs by selecting the check box before the ECS name.
+   You can concurrently select all ECSs on the current page by selecting the check box in the list header.
 
    .. note::
 

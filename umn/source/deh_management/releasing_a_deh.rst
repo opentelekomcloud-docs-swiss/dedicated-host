@@ -2,13 +2,13 @@
 
 .. _deh_01_0020:
 
-Releasing DeHs
-==============
+Releasing a DeH
+===============
 
 Scenarios
 ---------
 
-Timely release DeHs that are not used.
+You can release a DeH if it is no longer in use.
 
 Prerequisites
 -------------
@@ -20,9 +20,9 @@ Procedure
 
 #. Log in to the management console.
 
-#. Click |image1| in the upper left corner and select the desired region and project.
+#. Click |image1| in the upper left corner, and select a region and a project.
 
-#. Under , click **Dedicated Host**.
+#. Under **Computing**, click **Dedicated Host**.
 
    The **Dedicated Host** page is displayed.
 

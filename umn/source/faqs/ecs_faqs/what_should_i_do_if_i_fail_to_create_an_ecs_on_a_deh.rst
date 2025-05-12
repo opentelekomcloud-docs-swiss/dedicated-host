@@ -9,6 +9,6 @@ The following may cause the failure in creating an ECS on a DeH:
 
 -  The ECS flavor you selected is not supported by your DeH.
 
--  Your DeH resources are insufficient, resulting in failure in creating an ECS with the specifications you selected.
+-  Your DeH resources are insufficient.
 
    You can check whether the remaining vCPU resources and memory size of your DeH are sufficient for creating an ECS with the specifications you selected. If the resources are insufficient, you need to apply for more DeH resources or delete some ECSs from your DeH.
