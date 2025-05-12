@@ -2,20 +2,20 @@
 
 .. _deh_01_0024:
 
-Managing ECSs on a DeH
-======================
+Managing an ECS on a DeH
+========================
 
 Scenarios
 ---------
 
-You can start, stop, restart, or delete ECSs on a DeH on the management console.
+You can start, stop, restart, or delete an ECS on a DeH on the management console.
 
 Procedure
 ---------
 
 #. Log in to the management console.
 
-#. Click |image1| in the upper left corner and select the desired region and project.
+#. Click |image1| in the upper left corner, and select a region and a project.
 
 #. Under **Computing**, click **Dedicated Host**.
 
@@ -25,7 +25,7 @@ Procedure
 
    The DeH details page is displayed.
 
-#. On the **ECSs on the DeH** tab, locate the target ECS and select the target option in the **Operation** column to manage the ECS. Alternatively, select the target ECSs and select an operation above the ECS list.
+#. On the **ECSs on the DeH** tab, locate the target ECS and select the target option in the **Operation** column to manage the ECS. Alternatively, select the target ECS and select an operation above the ECS list.
 
    The options are as follows:
 
@@ -47,4 +47,4 @@ For details, see Elastic Cloud Server User Guide.
 
    -  When selecting an ECS type, pay attention to mapping between the ECS type and the DeH type. If no matched DeH resources exist, ECSs cannot be created.
 
-.. |image1| image:: /_static/images/en-us_image_0210485079.png
+.. |image1| image:: /_static/images/en-us_image_0000001850888056.png

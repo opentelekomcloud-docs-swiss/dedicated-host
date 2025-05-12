@@ -8,7 +8,7 @@ Releasing DeHs in Batches
 Scenarios
 ---------
 
-Timely release DeHs that are not used.
+You can batch release the DeHs that are no longer in use.
 
 If you want to release multiple DeHs at a time, use the batch release method.
 
@@ -17,7 +17,7 @@ Procedure
 
 #. Log in to the management console.
 
-#. Click |image1| in the upper left corner and select the desired region and project.
+#. Click |image1| in the upper left corner, and select a region and a project.
 
 #. Under **Computing**, click **Dedicated Host**.
 

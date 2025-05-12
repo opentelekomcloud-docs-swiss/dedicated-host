@@ -2,20 +2,20 @@
 
 .. _deh_01_0028:
 
-Modifying Specifications of ECSs on DeHs
-========================================
+Modifying the Specifications of an ECS on a DeH
+===============================================
 
 Scenarios
 ---------
 
-When the specifications of ECSs on a DeH cannot meet service requirements, you can modify the ECS specifications including the vCPUs and memory.
+When the specifications of ECSs on a DeH cannot meet your service requirements, you can modify the ECS specifications including the vCPUs and memory.
 
 Procedure
 ---------
 
 #. Log in to the management console.
 
-#. Click |image1| in the upper left corner and select the desired region and project.
+#. Click |image1| in the upper left corner, and select a region and a project.
 
 #. Under **Computing**, click **Dedicated Host**.
 
@@ -25,7 +25,7 @@ Procedure
 
    The DeH details page is displayed.
 
-#. On the **ECSs on the DeH** tab, query the status of the target ECS.
+#. On the **ECSs on the DeH** tab, view the status of the target ECS.
 
 #. Only the specifications of a stopped ECS can be modified. If the ECS is not stopped, click **More** and select **Stop** in the **Operation** column.
 

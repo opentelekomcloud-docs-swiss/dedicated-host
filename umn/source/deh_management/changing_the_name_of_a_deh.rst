@@ -2,20 +2,20 @@
 
 .. _deh_01_0018:
 
-Changing Names of DeHs
-======================
+Changing the Name of a DeH
+==========================
 
 Scenarios
 ---------
 
-Change names of DeHs on the management console.
+You can change the name of a DeH on the management console.
 
 Procedure
 ---------
 
 #. Log in to the management console.
 
-#. Click |image1| in the upper left corner and select the desired region and project.
+#. Click |image1| in the upper left corner, and select a region and a project.
 
 #. Under **Computing**, click **Dedicated Host**.
 
@@ -33,7 +33,7 @@ Procedure
 
    The name becomes editable.
 
-.. |image1| image:: /_static/images/en-us_image_0210485079.png
+.. |image1| image:: /_static/images/en-us_image_0000001850888056.png
 .. |image2| image:: /_static/images/en-us_image_0238393801.png
 .. |image3| image:: /_static/images/en-us_image_0000001160871730.png
 .. |image4| image:: /_static/images/en-us_image_0000001176881132.png
